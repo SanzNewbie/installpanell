@@ -1,4 +1,4 @@
-const bacaanshalat = {
+const bacaanshalat = [
   "result": [
     {
       "id": 1,
